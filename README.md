@@ -1,10 +1,9 @@
 ### Yoo, I'm Your father 👋
 
 
-
 - ⚡ Java / scala.
 
-- ✍️ [Blogger](https://haysc.tech)
+- ✍️ [Blogger]([https://haysc.tech](https://github.com/QiuXiang9527/QiuXiang9527))
 
 - 🥋 Boxing / Tai Chi
 - ♟ Chinese Chess / Chess 
