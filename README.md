@@ -1,11 +1,11 @@
-### Yoo, I'm Hays Chan 👋
+### Yoo, I'm Your father 👋
 
 
-- 🍻 Junior at 🇨🇳 [PKU](https://www.pku.edu.cn), _BSc in Computer Science_
+
 - ⚡ Java / scala.
-- 🖋 Writer at [sspai](https://sspai.com/u/aw0luepf/posts)
+
 - ✍️ [Blogger](https://haysc.tech)
-- 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
+
 - 🥋 Boxing / Tai Chi
 - ♟ Chinese Chess / Chess 
 
