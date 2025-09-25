@@ -1,4 +1,4 @@
-### Yoo, I'm Your father 👋
+### Yoo
 
 
 - ⚡ Java / scala.
